@@ -5,6 +5,8 @@ Project Overview:
 This project analyzes the historical daily stock prices of Meta (Facebook) to uncover trends, price behavior, and volatility patterns.
 The goal is to transform raw financial data into clear, actionable insights using automated analysis and plain-English explanations.
 
+
+
 **Dataset**
 
 Source: Historical Meta (Facebook) stock price data. 
@@ -21,6 +23,10 @@ Low:  Minimum price in a trading day,
 Adj Close: Closing price adjusted to reflect the value after accounting for any corporate actions, 
 Volume: Number of units traded in a day.
 
+
+
+
+
 **Analysis Steps**
 
 Data cleaning and preparation.
@@ -33,6 +39,10 @@ Volatility measurement using standard deviation.
 
 Automated insight generation.
 
+
+
+
+
 **Key Insights**
 
 Daily returns reveal periods of high price instability, 
@@ -41,13 +51,22 @@ Volatility quantifies how risky the stock is over time,
 
 Moving averages highlight long-term vs short-term trends.
 
+
+
+
 **Tools & Technologies**
+
+IDE: JupyterLab,
 
 Python, 
 
 Pandas, 
 
+Numpy, 
+
 Matplotlib. 
+
+
 
 
 **Why This Project Matters**
